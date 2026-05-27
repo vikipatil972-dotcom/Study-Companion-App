@@ -1,0 +1,6 @@
+{
+  "name": "Study Companion",
+  "description": "An all-in-one, highly polished study app featuring custom subject builders, smart notes with revision cards, AI study assistants, interactive physics & math animations, Mock MCQs, motivation music, and a study space with whiteboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
